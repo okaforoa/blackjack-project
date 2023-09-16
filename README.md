@@ -1,4 +1,5 @@
 # Blackjack Game in Python
+![Blackjack Project]()
 ## Project Overview
 This project aims to create an interactive and user-friendly Blackjack game that runs in a Python environment. The game provides an authentic Blackjack experience, simulating the rules and strategies of the real-world card game.
 
